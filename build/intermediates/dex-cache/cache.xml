@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mahendraliya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-3994050f0a28b9de1f04a7fe75b63cab0abd9072.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-3a79958eb14732b643dbdf8d78e42da659772b19.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/classes-cd7ca9c51ba3d3a3410d79dc80e4c6deddd5696b.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/classes-07c6403663f7835178ad898d86358a733f9c414a.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/classes-9a1a3dfb672f5da499e0a611bf5f7a2d413f10df.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/mahendraliya/AndroidStudioProjects/HelloCardView/app/build/intermediates/pre-dexed/debug/classes-84a5adbf7d9516b24f6512557f0f1068c5b86207.jar" />
+    </item>
+
+</items>
